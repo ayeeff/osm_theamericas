@@ -3,47 +3,8 @@
  "region": "osm_theamericas",
  "generated": "2026-10-04",
  "sourceCount": 1224,
- "count": 289,
+ "count": 286,
  "cities": [
-  {
-   "slug": "a-ail-ndia",
-   "label": "a-ail-ndia",
-   "extract": "brazil",
-   "bbox": [
-    -47.6748,
-    -5.1465,
-    -47.2331,
-    -4.7065
-   ],
-   "cluster": "brazil-17",
-   "country": "BR"
-  },
-  {
-   "slug": "a-u",
-   "label": "a-u",
-   "extract": "brazil",
-   "bbox": [
-    -37.1442,
-    -5.7849,
-    -36.7021,
-    -5.3449
-   ],
-   "cluster": "brazil-16",
-   "country": "BR"
-  },
-  {
-   "slug": "abadi-nia",
-   "label": "abadi-nia",
-   "extract": "brazil",
-   "bbox": [
-    -48.8531,
-    -16.4147,
-    -48.395,
-    -15.9747
-   ],
-   "cluster": "brazil-33",
-   "country": "BR"
-  },
   {
    "slug": "acara",
    "label": "acara",
@@ -84,8 +45,8 @@
    "country": "BR"
   },
   {
-   "slug": "alto-alegre-do-maranh-o",
-   "label": "alto-alegre-do-maranh-o",
+   "slug": "alto-alegre-do-maranhao",
+   "label": "alto-alegre-do-maranhao",
    "extract": "brazil",
    "bbox": [
     -44.673,
@@ -227,7 +188,7 @@
    "country": "BR"
   },
   {
-   "slug": "asuncin",
+   "slug": "asuncion",
    "label": "asuncin",
    "extract": "paraguay",
    "bbox": [
@@ -407,8 +368,8 @@
    "country": "MX"
   },
   {
-   "slug": "bigua-u",
-   "label": "bigua-u",
+   "slug": "biguacu",
+   "label": "biguacu",
    "extract": "brazil",
    "bbox": [
     -48.9198,
@@ -433,7 +394,7 @@
    "country": "BR"
   },
   {
-   "slug": "bogot",
+   "slug": "bogota",
    "label": "bogot",
    "extract": "colombia",
    "bbox": [
@@ -498,7 +459,7 @@
    "country": "BR"
   },
   {
-   "slug": "braslia",
+   "slug": "brasilia",
    "label": "braslia",
    "extract": "brazil",
    "bbox": [
@@ -576,8 +537,8 @@
    "country": "BR"
   },
   {
-   "slug": "c-cuta",
-   "label": "c-cuta",
+   "slug": "cucuta",
+   "label": "cucuta",
    "extract": "colombia",
    "bbox": [
     -72.7286,
@@ -719,8 +680,8 @@
    "country": "BR"
   },
   {
-   "slug": "capit-o-po-o",
-   "label": "capit-o-po-o",
+   "slug": "capitao-poco",
+   "label": "capitao-poco",
    "extract": "brazil",
    "bbox": [
     -47.3421,
@@ -862,8 +823,8 @@
    "country": "MX"
   },
   {
-   "slug": "concei-o-do-araguaia",
-   "label": "concei-o-do-araguaia",
+   "slug": "conceicao-do-araguaia",
+   "label": "conceicao-do-araguaia",
    "extract": "brazil",
    "bbox": [
     -49.5268,
@@ -875,8 +836,8 @@
    "country": "BR"
   },
   {
-   "slug": "concei-o-do-coit",
-   "label": "concei-o-do-coit",
+   "slug": "conceicao-do-coite",
+   "label": "conceicao-do-coite",
    "extract": "brazil",
    "bbox": [
     -39.5208,
@@ -992,8 +953,8 @@
    "country": "CL"
   },
   {
-   "slug": "del-biob-o",
-   "label": "del-biob-o",
+   "slug": "del-biobio",
+   "label": "del-biobio",
    "extract": "chile",
    "bbox": [
     -73.3018,
@@ -1122,8 +1083,8 @@
    "country": "BR"
   },
   {
-   "slug": "filad-lfia",
-   "label": "filad-lfia",
+   "slug": "filadelfia",
+   "label": "filadelfia",
    "extract": "brazil",
    "bbox": [
     -40.3569,
@@ -1213,8 +1174,8 @@
    "country": "CA"
   },
   {
-   "slug": "gua-doce-do-maranh-o",
-   "label": "gua-doce-do-maranh-o",
+   "slug": "agua-doce-do-maranhao",
+   "label": "agua-doce-do-maranhao",
    "extract": "brazil",
    "bbox": [
     -42.4359,
@@ -1303,7 +1264,7 @@
    "country": "GT"
   },
   {
-   "slug": "guatemalacity",
+   "slug": "guatemala",
    "label": "guatemalacity",
    "extract": "guatemala",
    "bbox": [
@@ -1678,8 +1639,8 @@
    "country": "BR"
   },
   {
-   "slug": "lu-s-eduardo-magalh-es",
-   "label": "lu-s-eduardo-magalh-es",
+   "slug": "luis-eduardo-magalhaes",
+   "label": "luis-eduardo-magalhaes",
    "extract": "brazil",
    "bbox": [
     -46.0232,
@@ -1691,8 +1652,8 @@
    "country": "BR"
   },
   {
-   "slug": "m-xico",
-   "label": "m-xico",
+   "slug": "mexico",
+   "label": "mexico",
    "extract": "mexico",
    "bbox": [
     -99.913,
@@ -1781,8 +1742,8 @@
    "country": "BR"
   },
   {
-   "slug": "manhua-u",
-   "label": "manhua-u",
+   "slug": "manhuacu",
+   "label": "manhuacu",
    "extract": "brazil",
    "bbox": [
     -42.2716,
@@ -1859,8 +1820,8 @@
    "country": "BR"
   },
   {
-   "slug": "medell-n",
-   "label": "medell-n",
+   "slug": "medellin",
+   "label": "medellin",
    "extract": "colombia",
    "bbox": [
     -75.7923,
@@ -1872,7 +1833,7 @@
    "country": "CO"
   },
   {
-   "slug": "mexicocity",
+   "slug": "mexico",
    "label": "mexicocity",
    "extract": "mexico",
    "bbox": [
@@ -1885,8 +1846,8 @@
    "country": "MX"
   },
   {
-   "slug": "michoac-n-de-ocampo",
-   "label": "michoac-n-de-ocampo",
+   "slug": "michoacan-de-ocampo",
+   "label": "michoacan-de-ocampo",
    "extract": "mexico",
    "bbox": [
     -101.8307,
@@ -2001,7 +1962,7 @@
    "country": "UY"
   },
   {
-   "slug": "montral",
+   "slug": "montreal",
    "label": "montral",
    "extract": "canada",
    "bbox": [
@@ -2348,8 +2309,8 @@
    "country": "BR"
   },
   {
-   "slug": "pi-n",
-   "label": "pi-n",
+   "slug": "pinon",
+   "label": "pinon",
    "extract": "brazil",
    "bbox": [
     -49.6638,
@@ -2361,8 +2322,8 @@
    "country": "BR"
   },
   {
-   "slug": "po-o-das-trincheiras",
-   "label": "po-o-das-trincheiras",
+   "slug": "poco-das-trincheiras",
+   "label": "poco-das-trincheiras",
    "extract": "brazil",
    "bbox": [
     -37.6195,
@@ -2413,8 +2374,8 @@
    "country": "BR"
   },
   {
-   "slug": "popay-n",
-   "label": "popay-n",
+   "slug": "popayan",
+   "label": "popayan",
    "extract": "colombia",
    "bbox": [
     -76.8258,
@@ -2722,8 +2683,8 @@
    "country": "BR"
   },
   {
-   "slug": "s-o-bento",
-   "label": "s-o-bento",
+   "slug": "sao-bento",
+   "label": "sao-bento",
    "extract": "brazil",
    "bbox": [
     -45.0698,
@@ -2735,8 +2696,8 @@
    "country": "BR"
   },
   {
-   "slug": "s-o-carlos",
-   "label": "s-o-carlos",
+   "slug": "sao-carlos",
+   "label": "sao-carlos",
    "extract": "brazil",
    "bbox": [
     -48.1437,
@@ -2748,8 +2709,8 @@
    "country": "BR"
   },
   {
-   "slug": "s-o-domingos-do-capim",
-   "label": "s-o-domingos-do-capim",
+   "slug": "sao-domingos-do-capim",
+   "label": "sao-domingos-do-capim",
    "extract": "brazil",
    "bbox": [
     -47.9658,
@@ -2761,8 +2722,8 @@
    "country": "BR"
   },
   {
-   "slug": "s-o-gon-alo-dos-campos",
-   "label": "s-o-gon-alo-dos-campos",
+   "slug": "sao-goncalo-dos-campos",
+   "label": "sao-goncalo-dos-campos",
    "extract": "brazil",
    "bbox": [
     -39.1884,
@@ -2774,8 +2735,8 @@
    "country": "BR"
   },
   {
-   "slug": "s-o-jo-o-da-barra",
-   "label": "s-o-jo-o-da-barra",
+   "slug": "sao-joao-da-barra",
+   "label": "sao-joao-da-barra",
    "extract": "brazil",
    "bbox": [
     -41.3072,
@@ -2787,8 +2748,8 @@
    "country": "BR"
   },
   {
-   "slug": "s-o-louren-o-do-sul",
-   "label": "s-o-louren-o-do-sul",
+   "slug": "sao-lourenco-do-sul",
+   "label": "sao-lourenco-do-sul",
    "extract": "brazil",
    "bbox": [
     -52.2315,
@@ -2800,8 +2761,8 @@
    "country": "BR"
   },
   {
-   "slug": "s-o-luiz-gonzaga",
-   "label": "s-o-luiz-gonzaga",
+   "slug": "sao-luiz-gonzaga",
+   "label": "sao-luiz-gonzaga",
    "extract": "brazil",
    "bbox": [
     -55.2075,
@@ -2813,8 +2774,8 @@
    "country": "BR"
   },
   {
-   "slug": "s-o-miguel-do-igua-u",
-   "label": "s-o-miguel-do-igua-u",
+   "slug": "sao-miguel-do-iguacu",
+   "label": "sao-miguel-do-iguacu",
    "extract": "brazil",
    "bbox": [
     -54.4908,
@@ -2826,8 +2787,8 @@
    "country": "BR"
   },
   {
-   "slug": "s-o-roque-do-cana",
-   "label": "s-o-roque-do-cana",
+   "slug": "sao-roque-do-canaa",
+   "label": "sao-roque-do-canaa",
    "extract": "brazil",
    "bbox": [
     -40.8786,
@@ -2839,8 +2800,8 @@
    "country": "BR"
   },
   {
-   "slug": "s-o-sebasti-o-da-boa-vista",
-   "label": "s-o-sebasti-o-da-boa-vista",
+   "slug": "sao-sebastiao-da-boa-vista",
+   "label": "sao-sebastiao-da-boa-vista",
    "extract": "brazil",
    "bbox": [
     -49.7959,
@@ -2943,7 +2904,7 @@
    "country": "MX"
   },
   {
-   "slug": "sanjos",
+   "slug": "sanjose",
    "label": "sanjos",
    "extract": "costa-rica",
    "bbox": [
@@ -2967,8 +2928,8 @@
    "country": "SV"
   },
   {
-   "slug": "santa-b-rbara-d-oeste",
-   "label": "santa-b-rbara-d-oeste",
+   "slug": "santa-barbara-doeste",
+   "label": "santa-barbara-doeste",
    "extract": "brazil",
    "bbox": [
     -47.6158,
@@ -3108,7 +3069,7 @@
    "country": "BR"
   },
   {
-   "slug": "sg",
+   "slug": "singapore",
    "label": "sg",
    "extract": "mexico",
    "bbox": [
@@ -3172,7 +3133,7 @@
    "country": "BR"
   },
   {
-   "slug": "sopaulo",
+   "slug": "saopaulo",
    "label": "sopaulo",
    "extract": "brazil",
    "bbox": [
@@ -3390,8 +3351,8 @@
    "country": "BR"
   },
   {
-   "slug": "tubar-o",
-   "label": "tubar-o",
+   "slug": "tubarao",
+   "label": "tubarao",
    "extract": "brazil",
    "bbox": [
     -49.2708,
@@ -3455,8 +3416,8 @@
    "country": "BR"
   },
   {
-   "slug": "urua-u",
-   "label": "urua-u",
+   "slug": "uruacu",
+   "label": "uruacu",
    "extract": "brazil",
    "bbox": [
     -49.349,
@@ -3507,8 +3468,8 @@
    "country": "BR"
   },
   {
-   "slug": "valen-a",
-   "label": "valen-a",
+   "slug": "valenca",
+   "label": "valenca",
    "extract": "brazil",
    "bbox": [
     -41.647,
@@ -3533,7 +3494,7 @@
    "country": "CL"
   },
   {
-   "slug": "valparaso",
+   "slug": "valparaiso",
    "label": "valparaso",
    "extract": "chile",
    "bbox": [
